@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WaoVet.Token.Service.props" />
+</Project>

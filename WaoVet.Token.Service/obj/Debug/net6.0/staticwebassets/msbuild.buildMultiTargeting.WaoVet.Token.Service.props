@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WaoVet.Token.Service.props" />
+</Project>
