@@ -1,0 +1,6 @@
+# Ignore Visual Studio Cache
+.vs/
+
+# Ignore .dlls compilation
+**/obj/
+**/bin/
